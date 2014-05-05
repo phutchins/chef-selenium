@@ -1,0 +1,6 @@
+name              'selenium'
+maintainer        'Philip Hutchins'
+maintainer_email  'flipture@gmail.com'
+license           'Apache 2.0'
+description       'Installs and configures Selenium Server'
+version           '0.0.1'
